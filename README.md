@@ -1,2 +1,2 @@
 # Skill
-Deepwork
+Deepwork in flash period
